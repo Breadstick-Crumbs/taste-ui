@@ -1,0 +1,21 @@
+{
+  "name": "taste-ui",
+  "owner": {
+    "name": "Breadstick-Crumbs"
+  },
+  "metadata": {
+    "description": "Design from your own taste profile instead of model defaults.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "taste-ui",
+      "description": "Builds a taste profile from sites you love (measured fonts, colours, radii, navbar and motion behaviour), designs every UI from it, and checks the result like a user would.",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/taste-ui"
+      ]
+    }
+  ]
+}

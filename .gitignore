@@ -1,0 +1,9 @@
+# Captures of other people's sites are private reference material: never commit them.
+*.jpg
+*.jpeg
+*.png
+tokens.json
+motion.json
+shots/
+node_modules/
+.DS_Store
